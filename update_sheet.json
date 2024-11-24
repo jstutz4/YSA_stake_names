@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "update-stake-name",
+  "private_key_id": "05c24738ae4b07d33ec63fe171bb8f631db46658",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmoFWqBdtxuH5x\nhWWHAH0klZH3MFq8VsPU9S4s2WxNZRfrLVdBqg8aEkRXCfZXouDxb8sQKsAWR468\njznIEK03iWYSlRchUJuVvjahJ+99DM0dz5oGnkRxLh0wCpqsS4wW85qZnPNPaN4z\nwBu5+GRkHyjURMyMaNqIdRUHpDx0g6BsztCteDj5Rixf8hRhLvyQBKbhjl3kzbCd\nVw1srXyt5vR87BHU8eejlKtPer2WAZ0HNQXEoLvh3Efc/5GI5dlv2CuQZ74Qcb/6\nPmR6onQv9Vp9RZRwIdfZSN2ntMY1oauVyR0OFmuLxqUzdXG/WQo1FpySJ2bFOIIw\ntL5QmgEzAgMBAAECggEAAtn0jVPLVQ9crpGjUqOaAKHEnS/JJbbwY/kMIL1ZwptL\nxP0CJMAFwSL1421qt0Y0xjztAypQHjF8SlLDIN7UMAKcag3+FtZbyzy1j51w1jl9\nWxi94IYd0rgAzN0pl3A1hgEGMMHEUiQPxV/wuYZ8JVB5MOS6gV6b+sDSKs7PMAk3\needMODeqRcZplg83+VCEzGkOblMRhVlkzSWmERLgjTeJgpw6qwJbrw3wKwub+mzk\njb4nqMVjKmCGHlL3H74Wx+sgtRSWs5FaqhyA/+F4CwZAwfGQWcIaT//Fmp6Bv38Q\nj1W4p8KTotAyy0cNojEGcvgvaClwEtMVWl5pSWXWhQKBgQDqeW3DkMvXWqn55DIU\nGZ/PDzHLD15TQWxdrdifGQQcjxt1lLfsrD8A01LXqJ5XIZS+OpouxOz7nz84X+YX\nntoPbNQa3psiLsaTL7hSGUsOlo6XJLAmF7FsSYzUziA5pH7KFtE/UIjsR5PT8+4e\n4S2paAsvKpq9687S50PGoaeFhQKBgQC17Fq+7XLcU3fvQ/vMkdyItigm8pn9/P5z\nVwYWDSPs8FKTwnw2rleqV9Gyjpn4Mc0WzrnKzbOJh7wbDQB+NC8NAY2RC+WKJ7vJ\nC/9epbbUT0L5oN7djS3dVCNNIFE9s04Cng/zUNhkWy1QgwQXWUhV9aUxSphcjHOS\n4PMLISptVwKBgESLwSn175GCgMR8EKPNpelrYLwjPwkJzDtKslQ4hPowX++szWQU\nKsr7/HDta3S/bXN7QE3B5iHdOScq6eIn30m5H/zG7QU+NXEb9z+RA189ZmwLHq/U\nJ1sn2VLw+3y+eQ5tQzjGO3EPr8i7u/YtECNBNlvQkbJJ+ImxcB/mbEndAoGAWL1S\nBpAM1yxf9HZU/RSpXoZ8T4NHWn1uIRTyAw+l1o3jue/EZ2fjm1P7Ff45XLfuMpHk\nTujICu4K86cD9ou957o6M+Z5sUpwb0FK8AAljqqbIOk3zRpwpOXF0nlRJ6evBdfU\nL/vfkhRnpj5CYKFMh6GrUr/wUjSwq5TO+T7UU0ECgYBWgVtDBCL0DHO1MtXxz30X\nJxkfUv60TgaWDuqeNbxlWa2pyDBaDYnt0v13UdmOQYTiId2huJxKJ97PQObRB7fL\nlNGShDxDwcj9gRH7uAV2g3Za1l95f+YSQtFfqByLngii5uonH4zcqLM7Q81Qi/JY\nfuk5kLduEqfOS1Ca+2qaVw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-api-update-stake-names@update-stake-name.iam.gserviceaccount.com",
+  "client_id": "103791872860530849803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-api-update-stake-names%40update-stake-name.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
