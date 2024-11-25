@@ -5,7 +5,7 @@ verify_ssl = true
 
 [packages]
 requests = "*"
-flask = "*"
+selenium = "*"
 
 [scripts]
 start = "__main__.py"
