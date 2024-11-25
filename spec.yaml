@@ -1,0 +1,7 @@
+name: your-app-name
+services:
+  - name: web
+    run_command: python __main__.py
+    envs:
+      - key: ENV_VAR_NAME
+        value: ENV_VAR_VALUE
