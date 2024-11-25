@@ -9,3 +9,6 @@ selenium = "*"
 
 [scripts]
 start = "__main__.py"
+
+[requires]
+python_version = "3.13"
