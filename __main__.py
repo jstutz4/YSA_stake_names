@@ -1,5 +1,5 @@
 # Import the function from selenium_utils.py
-from selenium_utils import get_page_title
+from scrape_stake_name import get_page_title
 
 def main(event):
   # Use the function
