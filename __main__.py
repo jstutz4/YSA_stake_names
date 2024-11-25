@@ -11,4 +11,4 @@ def main(event):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-main()
+main({})
