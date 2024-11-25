@@ -1,2 +1,2 @@
 gunicorn>=23,<24
-selenium
+selenium>=4.26
