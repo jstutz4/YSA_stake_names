@@ -8,11 +8,6 @@ setup(
         "requests",
         "selenium",
     ],
-    entry_points={
-        'console_scripts': [
-            'your_command=your_module:main_function',
-        ],
-    },
     author="Your Name",
     author_email="your.email@example.com",
     description="A brief description of your project",
